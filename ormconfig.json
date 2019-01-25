@@ -1,0 +1,11 @@
+{
+  "type": "postgres",
+  "host": "manny.db.elephantsql.com",
+  "port": "5432",
+  "username": "xyesevzz",
+  "password": "0xFqJwHzvNs7zVtFq4jX1jm5Fhs9OzPV",
+  "database": "xyesevzz",
+  "synchronize": true,
+  "logging": true,
+  "entities": ["./src/**/*.entity.ts", "./dist/**/*.entity.js"]
+}
